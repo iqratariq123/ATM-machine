@@ -1,0 +1,21 @@
+{
+  "name": "45iq-khan-cli-atm",
+  "version": "2.0.1",
+  "description": "ATM Machine",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iqra tariq",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "45iq-khan-cli-atm": "^2.0.1",
+    "inquirer": "^9.2.17"
+  }
+}
